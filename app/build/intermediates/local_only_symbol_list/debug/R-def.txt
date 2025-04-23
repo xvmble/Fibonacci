@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+array fibo_modes
+color accentColor
+color backgroundColor
+color black
+color buttonTextColor
+color primaryColor
+color primaryDarkColor
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id inputField
+id modeSpinner
+id outputText
+id toggleButton
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string enter_number
+string start
+string step_text
+string stop
+string sum_result
+string value_result
+style Base.Theme.FibonacciNumbers
+style Theme.FibonacciNumbers
+xml backup_rules
+xml data_extraction_rules

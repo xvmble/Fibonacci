@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fibo_modes">
+        <item>Sum</item>
+        <item>Value</item>
+    </string-array>
+    <color name="accentColor">#F5A623</color>
+    <color name="backgroundColor">#F2F2F2</color>
+    <color name="black">#FF000000</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="primaryColor">#4A90E2</color>
+    <color name="primaryDarkColor">#003E7E</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Fibonacci Numbers</string>
+    <string name="enter_number">Enter a number first!</string>
+    <string name="start">Start</string>
+    <string name="step_text">Step %1$d: F(%1$d) = %2$d</string>
+    <string name="stop">Stop</string>
+    <string name="sum_result">Fibonacci: %1$s\nSum = %2$d</string>
+    <string name="value_result">Fibonacci value: %1$d</string>
+    <style name="Base.Theme.FibonacciNumbers" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.FibonacciNumbers" parent="Base.Theme.FibonacciNumbers"/>
+</resources>

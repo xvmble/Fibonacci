@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fibonacci Numbers</string>
+    <string-array name="fibo_modes">
+        <item>Sum</item>
+        <item>Value</item>
+    </string-array>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="enter_number">Enter a number first!</string>
+    <string name="step_text">Step %1$d: F(%1$d) = %2$d</string>
+    <string name="sum_result">Fibonacci: %1$s\nSum = %2$d</string>
+    <string name="value_result">Fibonacci value: %1$d</string>
+
+</resources>
